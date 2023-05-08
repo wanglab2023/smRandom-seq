@@ -5,7 +5,7 @@ Count matrix generating python codes: selectResult.py
 Validation of smRandom-seq:   
 Fig. 2f, Supplementary Fig. 9: Correlation of gene expression.R  
 Fig.2h: Saturation analysis.sh  
-Fig.2k: technical repeatability.py  
+Fig.2k: technical reproducibility.py  
 Supplementary Fig. 7: Gene body coverage.sh  
 Downstream analysis of the antibiotic-treated samples:   
 Figs. 3c-e, Fig. 3g, Fig. 3h, Supp. Fig. 11: CIP-antibiotic-treatment.py  
